@@ -1,4 +1,4 @@
-# APARC_AI4Climate_School
+
 # SPARC Training School on “Climate Data Science and Artificial Intelligence in the Global South”.
 
 # Time-period: 
