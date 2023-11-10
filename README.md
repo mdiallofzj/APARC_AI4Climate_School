@@ -1,13 +1,14 @@
 # APARC_AI4Climate_School
 # SPARC Training School on “Climate Data Science and Artificial Intelligence in the Global South”.
 
-# Scope: 
-The training school focuses on new methods of Data Analysis and AI/ML to inspire innovation and improve weather and climate services and user-relevant information on the sub-seasonal-decadal scale in the Global South.
-
-# Time-period: 29 th - 31 th October 2023.
-# Venue: University of Rwanda - College of Science and Technology, Kigali (GoogleMap)
-# Funding: SPARC – Stratosphere-troposphere Processes And their Role in Climate.
-# Highlights: Learning of methods to co-design actionable knowledge for climate resilience and how to best establish a training program on AI and Climate Change for ECSs.
+# Time-period: 
+29 th - 31 th October 2023.
+# Venue: 
+University of Rwanda - College of Science and Technology, Kigali (GoogleMap)
+# Funding: 
+SPARC – Stratosphere-troposphere Processes And their Role in Climate.
+# Highlights: 
+Learning of methods to co-design actionable knowledge for climate resilience and how to best establish a training program on AI and Climate Change for ECSs.
 
 # Scope: 
 The training school will focus on new methods of Data Analysis and AI to inspire innovation and improve weather and climate services and user-relevant information on the sub-seasonal-decadal scale in the Global South. For future plans, time will be devoted to discussing plans for a SPARC training school on AI and Climate Change in the Global South with strong involvement of local universities.
@@ -30,11 +31,14 @@ Mohamadou A. Diallo, Forschungszentrum Jülich, Germany (m.diallo@fz-juelich.de)
 # Scientific Organizing Committee: 
 Dr. Mohamadou A. Diallo (FZJ), Prof. Michaela I. Hegglin (FZJ, UREAD), Prof. Amadou T. Gaye (UCAD) and Prof. Ted Shepherd (FZJ, UREAD). 
 
-# Local Organizing Committee: Prof Damien Hanyurwimfura (UR), Dr. Jennifer Batamuliza (UR), Dr Celestin Kurujyibwami and Prof. Charles Ruranga (UR).
+# Local Organizing Committee: 
+Prof Damien Hanyurwimfura (UR), Dr. Jennifer Batamuliza (UR), Dr Celestin Kurujyibwami and Prof. Charles Ruranga (UR).
 
-# Lecturers: Prof. Michaela I. Hegglin, Prof. Ted Shepherd, Dr. Mouhamadou B. Sylla, Dr. Emmanuel Masabo, Dr. Birgit Hassler, Prof. Gloria L. Manney, Dr. Cheikh N. Fall, Dr. Elena Saggioro, Ms Fiona Spuler, Mr Jackob Wessel and Dr. Mohamadou A. Diallo.
+# Lecturers: 
+Prof. Michaela I. Hegglin, Prof. Ted Shepherd, Dr. Mouhamadou B. Sylla, Dr. Emmanuel Masabo, Dr. Birgit Hassler, Prof. Gloria L. Manney, Dr. Cheikh N. Fall, Dr. Elena Saggioro, Ms Fiona Spuler, Mr Jackob Wessel and Dr. Mohamadou A. Diallo.
 
-# Sponsors: The workshop will be held under the auspices of WCRP (World Climate Research Programme), SPARC and SPARC-Reanalysis Intercomparison Project (SRIP).
+# Sponsors: 
+The workshop is held under the auspices of WCRP (World Climate Research Programme), SPARC and SPARC-Reanalysis Intercomparison Project (SRIP).
 
 # SPARC webpage: 
 https://www.sparc-climate.org/2023/09/08/2-3-days-of-climate-data-science-ai-training-school-at-the-university-of-rwanda-on-october-29th-31st/
