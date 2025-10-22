@@ -40,7 +40,7 @@ Prof. Michaela I. Hegglin, Prof. Ted Shepherd, Dr. Mouhamadou B. Sylla, Dr. Emma
 # Sponsors: 
 The workshop is held under the auspices of WCRP (World Climate Research Programme), SPARC and SPARC-Reanalysis Intercomparison Project (SRIP).
 
-# SPARC webpage: 
+# APARC webpage: 
 https://www.sparc-climate.org/2023/09/08/2-3-days-of-climate-data-science-ai-training-school-at-the-university-of-rwanda-on-october-29th-31st/
 
 # WCRP webpage: 
