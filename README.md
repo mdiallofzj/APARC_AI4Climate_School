@@ -1,5 +1,5 @@
 
-# SPARC Training School on “Climate Data Science and Artificial Intelligence in the Global South”.
+# APARC Training School on “Climate Data Science and Artificial Intelligence in the Global South”.
 
 # Time-period: 
 29 th - 31 th October 2023.
