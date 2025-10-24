@@ -1,3 +1,5 @@
+## 2023 AI4Climate School @ University of Rwanda
+
 
 # APARC Training School on “Climate Data Science and Artificial Intelligence in the Global South”.
 
